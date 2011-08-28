@@ -414,6 +414,7 @@ qstr_{s41}_traded_{s42}_f {s41}_traded_{s42}_for_{s40}.
 qstr_{s40}_has_picked_{s4 {s40}_has_picked_{s41}._
 qstr_Battle_result_saved. Battle_result_saved.
 qstr_You_hit_for_{reg60}_ You_hit_for_{reg60}_damage.
+qstr_Took_{reg61}_damage. Took_{reg61}_damage.
 qstr_You_got_{reg1}_exper You_got_{reg1}_experience.
 qstr_num_parties_enemy num_parties_enemy
 qstr_p_enemy{reg20}_banne p_enemy{reg20}_banner
@@ -462,7 +463,6 @@ qstr_Player Player
 qstr_You_got_keys_of_dung You_got_keys_of_dungeon.
 qstr_You_must_stay_behind You_must_stay_behind_the_line_on_the_ground!_Point_is_not_counted.
 qstr_Tutorial Tutorial
-qstr_Took_{reg61}_damage. Took_{reg61}_damage.
 qstr_The_defenders_retrea The_defenders_retreat!
 qstr_The_attackers_have_r The_attackers_have_reached_the_wall
 qstr_{!}{s4}:_M{reg3}_2M{ {!}{s4}:_M{reg3},_2M{reg4},_PC{reg5},_2PC{reg6},_PM{reg7}
