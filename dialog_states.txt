@@ -13,6 +13,7 @@ view_char
 training
 member_chat
 prisoner_chat
+lco_conversation_end
 award_fief_to_vassal
 award_fief_to_vassal_defer
 award_fief_to_vassal_2
