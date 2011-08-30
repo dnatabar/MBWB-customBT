@@ -1,4 +1,4 @@
-800
+813
 qstr_Next_Page Next_Page
 qstr_Co_op_Admin_Panel Co-op_Admin_Panel
 qstr_Game_Rules:^ Game_Rules:^
@@ -408,9 +408,15 @@ qstr_Sea_Raider_Landing Sea_Raider_Landing
 qstr_Number_of_troops_on_ Number_of_troops_on_team_{reg1}:
 qstr_Time_of_day: Time_of_day:
 qstr_Recieved_Scene_Data. Recieved_Scene_Data.
+qstr_DEBUG_FACE_KEY_1 DEBUG_FACE_KEY_1
+qstr_DEBUG_FACE_KEY_2 DEBUG_FACE_KEY_2
+qstr_DEBUG_FACE_KEY_3 DEBUG_FACE_KEY_3
+qstr_DEBUG_FACE_KEY_4 DEBUG_FACE_KEY_4
 qstr_Trade_failed. Trade_failed.
 qstr_none none
 qstr_{s41}_traded_{s42}_f {s41}_traded_{s42}_for_{s40}.
+qstr_DEBUG_FACE_KEY_5 DEBUG_FACE_KEY_5
+qstr_DEBUG_FACE_KEY_6 DEBUG_FACE_KEY_6
 qstr_{s40}_has_picked_{s4 {s40}_has_picked_{s41}._
 qstr_Battle_result_saved. Battle_result_saved.
 qstr_You_hit_for_{reg60}_ You_hit_for_{reg60}_damage.
@@ -449,6 +455,10 @@ qstr_hero_{reg21}_trp hero_{reg21}_trp
 qstr_hero_{reg21}_name hero_{reg21}_name
 qstr_hero_{reg21}_xp hero_{reg21}_xp
 qstr_hero_{reg21}_hp hero_{reg21}_hp
+qstr_DEBUG_FACE_KEY_7 DEBUG_FACE_KEY_7
+qstr_DEBUG_FACE_KEY_8 DEBUG_FACE_KEY_8
+qstr_DEBUG_FACE_KEY_9 DEBUG_FACE_KEY_9
+qstr_DEBUG_FACE_KEY_10 DEBUG_FACE_KEY_10
 qstr_hero_{reg21}_face hero_{reg21}_face
 qstr_hero_{reg21}_str hero_{reg21}_str
 qstr_hero_{reg21}_agi hero_{reg21}_agi
@@ -460,6 +470,9 @@ qstr_player_inv_mgt player_inv_mgt
 qstr_party_inv{reg20}_itm party_inv{reg20}_itm
 qstr_party_inv{reg20}_imd party_inv{reg20}_imd
 qstr_Player Player
+qstr_DEBUG_FACE_KEY_11 DEBUG_FACE_KEY_11
+qstr_DEBUG_FACE_KEY_12 DEBUG_FACE_KEY_12
+qstr_DEBUG_FACE_KEY_13 DEBUG_FACE_KEY_13
 qstr_You_got_keys_of_dung You_got_keys_of_dungeon.
 qstr_You_must_stay_behind You_must_stay_behind_the_line_on_the_ground!_Point_is_not_counted.
 qstr_Tutorial Tutorial
