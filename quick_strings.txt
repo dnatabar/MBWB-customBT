@@ -1,4 +1,4 @@
-813
+823
 qstr_Next_Page Next_Page
 qstr_Co_op_Admin_Panel Co-op_Admin_Panel
 qstr_Game_Rules:^ Game_Rules:^
@@ -87,6 +87,16 @@ qstr_Messages:_show_xp Messages:_show_xp
 qstr_Troops_{reg1} Troops_{reg1}
 qstr_Reserves_{reg0} Reserves_{reg0}
 qstr_{s1}_as_{s2} {s1}_as_{s2}
+qstr__Re__Initialize_Glob (Re-)Initialize_Global_RCT_Vars
+qstr_Add_"Talk_with_Guild Add_"Talk_with_Guildmaster":
+qstr_Add_"Talk_with_Villa Add_"Talk_with_Village_Elder":
+qstr_Allow_Tavernkeeper_t Allow_Tavernkeeper_to_"restock"_servants:
+qstr_Disable_permanent_da Disable_permanent_damage_for_long_campaigns:
+qstr_Disable_NPC_s_quitti Disable_NPC's_quitting:
+qstr_Disable_most_NPC_com Disable_most_NPC_complaints
+qstr_rct_mnu_recruit_pris rct_mnu_recruit_prisoner_no_penalty:
+qstr_rct_disable_hero_mor rct_disable_hero_morale_penalty:
+qstr_Done Done
 qstr_{!}DEBUG_:_Completed {!}DEBUG_:_Completed_faction_troop_assignments,_cheat_mode:_{reg3}
 qstr_{!}ERROR:_Not_enough {!}ERROR:_Not_enough_banners_for_heroes!
 qstr_{!}DEBUG____initial_ {!}DEBUG_--_initial_war/peace_check_begins
