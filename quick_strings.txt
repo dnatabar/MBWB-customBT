@@ -1,4 +1,4 @@
-823
+824
 qstr_Next_Page Next_Page
 qstr_Co_op_Admin_Panel Co-op_Admin_Panel
 qstr_Game_Rules:^ Game_Rules:^
@@ -96,6 +96,7 @@ qstr_Disable_NPC_s_quitti Disable_NPC's_quitting:
 qstr_Disable_most_NPC_com Disable_most_NPC_complaints
 qstr_rct_mnu_recruit_pris rct_mnu_recruit_prisoner_no_penalty:
 qstr_rct_disable_hero_mor rct_disable_hero_morale_penalty:
+qstr_rct_dlg_prisoner_lor rct_dlg_prisoner_lord_offer_guarantee:
 qstr_Done Done
 qstr_{!}DEBUG_:_Completed {!}DEBUG_:_Completed_faction_troop_assignments,_cheat_mode:_{reg3}
 qstr_{!}ERROR:_Not_enough {!}ERROR:_Not_enough_banners_for_heroes!
