@@ -1,1 +1,0 @@
-WSELoader.exe -r Battle_Time.txt -m Battle_Time

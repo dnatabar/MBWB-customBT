@@ -1,4 +1,0 @@
-[23:02:41] WSE v1802 by cmpxchg8b (Build date: Aug  6 2011 04:58:27)
-[23:02:41] WSE path: C:\Program Files (x86)\Steam\steamapps\common\mountblade warband\Modules\Battle_Time\WSE\
-[23:02:41] WSE netcode version: 2
-[23:02:41] Warband version: Steam

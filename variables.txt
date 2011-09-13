@@ -1207,7 +1207,6 @@ g_tribute_amount
 g_there_is_no_avaliable_centers
 g_advantegous_faction
 g_give_advantage_to_original_faction
-g_lco_operation
 coop_encountered_party
 coop_battle_type
 coop_winner_team
@@ -1250,6 +1249,7 @@ g_lco_drag_quantity
 g_lco_drag_quantity_max
 g_lco_dragging
 g_lco_target
+g_lco_operation
 g_lco_popup_active
 g_lco_popup_overlay
 g_lco_popup_item
@@ -1330,6 +1330,7 @@ g_presentation_obj_8
 g_presentation_obj_9
 g_presentation_obj_10
 g_presentation_obj_11
+g_presentation_obj_12
 g_rct_mnu_town_talk_guildmaster
 g_rct_mnu_village_talk_elder
 g_rct_dlg_sell_prisoners_to_tavernkeeper
@@ -1338,6 +1339,7 @@ g_rct_dlg_disable_npc_leaving
 g_rct_mnu_recruit_prisoner_no_penalty
 g_rct_disable_hero_morale_penalty
 g_rct_dlg_prisoner_lord_offer_guarantee
+g_report_shot_distance
 coop_map_party
 g_lco_dragging_from
 g_lco_dragging_from_slot
@@ -1400,3 +1402,4 @@ coop_form_line_last_pos
 coop_agent_party
 coop_no_enemy_parties
 coop_no_ally_parties
+$g_camp_talk
